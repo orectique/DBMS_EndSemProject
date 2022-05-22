@@ -8,8 +8,8 @@ create table coaches (
     LicenseID char(8) primary key,
     First_Name varchar(20),
     Last_Name varchar(20),
-    Active char(5),
-    WinPercent double(4, 2)
+    Active varchar(5),
+    WinPercent numeric
 );
 
 create table managers (
@@ -17,7 +17,7 @@ create table managers (
     First_Name varchar(20),
     Last_Name varchar(20),
     Active varchar(5),
-    WinPercent double(4, 2)
+    WinPercent numeric
 );
 
 create table teams (
@@ -36,7 +36,7 @@ create table players (
     Assists int, 
     P_Status varchar(5),
     Goals int,
-    ShotPercent double(4, 2),
+    ShotPercent numeric,
     Nationality varchar(30),
     Age int,
     Cur_Team varchar(6) references teams(UID)
