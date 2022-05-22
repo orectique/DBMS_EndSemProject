@@ -90,4 +90,3 @@ create table manager_contracts (
     ContractStart date,
     Salary int
 );
-
