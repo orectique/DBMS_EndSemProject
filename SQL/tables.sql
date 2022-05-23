@@ -21,13 +21,16 @@ create table managers (
 );
 
 create table teams (
-    UID char(6) primary key,
+    UnID char(6),
     T_Name varchar(20),
     NumPlayed int,
     NumWon int,
     Home varchar(50) unique,
-    Manager varchar(10) references managers(LicenseID),
-    Coach varchar(10) references coaches(LicenseID)
+    Manager char(8),
+    Coach char(8),
+    primary key(UnID),
+    foreign key(Manager) references managers(LicenseID),
+    foreign key(Coach) references coaches(LicenseID)
 );
 
 create table players (
@@ -39,7 +42,8 @@ create table players (
     ShotPercent numeric,
     Nationality varchar(30),
     Age int,
-    Cur_Team varchar(6) references teams(UID)
+    Cur_Team char(6),
+    foreign key(Cur_Team) references teams(UnID)
 );
 
 create table games (
