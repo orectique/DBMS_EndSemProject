@@ -1,5 +1,5 @@
 create table umpire (
-    LicenseNumber varchar(9) primary key,
+    LicenseNumber char(9) primary key,
     First_Name varchar(20),
     Last_Name varchar(20)
 );
@@ -21,14 +21,13 @@ create table managers (
 );
 
 create table teams (
-    UnID char(6),
+    UnID char(6) primary key,
     T_Name varchar(20),
     NumPlayed int,
     NumWon int,
     Home varchar(50) unique,
     Manager char(8),
     Coach char(8),
-    primary key(UnID),
     foreign key(Manager) references managers(LicenseID),
     foreign key(Coach) references coaches(LicenseID)
 );
@@ -48,49 +47,63 @@ create table players (
 
 create table games (
     gameID char(6) primary key,
-    Date date,
-    Ump_License char(9) references umpire(LicenseNumber),
-    WinningTeam char(6) references teams(UID),
-    Team2 char(6) references teams(UID)
-    field varchar(50) references teams(Home)
+    gDate date,
+    Ump_License char(9), 
+    WinningTeam char(6), 
+    Team2 char(6),
+    gField varchar(50),
+    foreign key(Ump_License) references umpire(LicenseNumber),
+    foreign key(WinningTeam) references teams(UnID),
+    foreign key(Team2) references teams(UnID),
+    foreign key(gField) references teams(Home)
 );
 
 create table violations (
-    UID char(9) primary key,
-    Type varchar(30),
-    Player char(11) references players(LicenseNumber),
-    gameID char(6) references games(gameID)
+    UnID char(9) primary key,
+    vType varchar(30),
+    Player char(11), 
+    gameID char(6), 
+    foreign key(Player) references players(LicenseNumber),
+    foreign key(gameID) references games(gameID)
 );
 
 create table goals (
     GID char(9) primary key,
-    Shooter char(11) references players(LicenseNumber),
-    gameID char(6) references games(gameID)
+    Shooter char(11), 
+    gameID char(6),
+    foreign key(Shooter) references players(LicenseNumber),
+    foreign key(gameID) references games(gameID)
 );
 
 create table player_contracts (
     ContractID char(9) primary key,
-    Team char(6) references teams(UID),
-    Person varchar(11) references players(LicenseNumber),
+    Team char(6), 
+    Person char(11), 
     ContractEnd date,
     ContractStart date,
-    Salary int
+    Salary int,
+    foreign key(Team) references teams(UnID),
+    foreign key(Person) references players(LicenseNumber)
 );
 
 create table coach_contracts (
     ContractID char(9) primary key,
-    Team char(6) references teams(UID),
-    Person varchar(11) references coaches(LicenseID),
+    Team char(6), 
+    Person char(8),
     ContractEnd date,
     ContractStart date,
-    Salary int
-);
+    Salary int,
+    foreign key(Team) references teams(UnID),
+    foreign key(Person) references coaches(LicenseID),
+); 
 
 create table manager_contracts (
     ContractID char(9) primary key,
-    Team char(6) references teams(UID),
-    Person varchar(11) references managers(LicenseID),
+    Team char(6),
+    Person char(8),
     ContractEnd date,
     ContractStart date,
-    Salary int
+    Salary int,
+    foreign key(Team) references teams(UnID),
+    foreign key(Person) references managers(LicenseID)
 );
