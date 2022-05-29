@@ -46,12 +46,12 @@ create table players (
 );
 
 create table games (
-    gameID char(6) primary key,
+    gameID char(7) primary key,
     gDate date,
     Ump_License char(9), 
     WinningTeam char(6), 
     Team2 char(6),
-    gField varchar(50),
+    gField varchar(100),
     foreign key(Ump_License) references umpire(LicenseNumber),
     foreign key(WinningTeam) references teams(UnID),
     foreign key(Team2) references teams(UnID),
@@ -62,7 +62,7 @@ create table violations (
     UnID char(9) primary key,
     vType varchar(30),
     Player char(11), 
-    gameID char(6), 
+    gameID char(7), 
     foreign key(Player) references players(LicenseNumber),
     foreign key(gameID) references games(gameID)
 );
@@ -70,7 +70,7 @@ create table violations (
 create table goals (
     GID char(9) primary key,
     Shooter char(11), 
-    gameID char(6),
+    gameID char(7),
     foreign key(Shooter) references players(LicenseNumber),
     foreign key(gameID) references games(gameID)
 );
@@ -94,7 +94,7 @@ create table coach_contracts (
     ContractStart date,
     Salary int,
     foreign key(Team) references teams(UnID),
-    foreign key(Person) references coaches(LicenseID),
+    foreign key(Person) references coaches(LicenseID)
 ); 
 
 create table manager_contracts (
