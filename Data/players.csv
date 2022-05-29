@@ -1,501 +1,501 @@
 LicenseNumber,P_Name,Assists,P_Status,Goals,ShotPercent,Nationality,Age,Cur_Team
-287-EG0-894,Mufi Jaeggi,20,True,28,0.64,Israel,23,KW-724
-099-VZ2-928,Leonie Addyman,15,False,16,0.98,United States,22,WI-704
-537-OT1-130,Urson Scrine,32,True,22,0.59,Egypt,20,PY-241
-938-II7-279,Filberto Molian,21,True,10,0.85,Ireland,21,FJ-273
-173-KS0-031,Donal Wyvill,27,False,39,0.07,Pakistan,21,WI-704
-337-HW7-280,Mina Redsell,34,True,30,0.8,Philippines,20,PY-241
-107-TM5-587,Renard Gregorin,9,False,33,0.86,Greece,22,KG-943
-485-NV8-595,Sharla Leask,42,True,39,0.55,China,21,YZ-552
-497-XB8-064,Clementius Aggiss,36,True,50,0.19,Netherlands,22,FO-623
-590-VF5-178,Wayne Rigden,68,False,28,0.28,Czech Republic,24,NX-742
-572-OY8-422,Latisha Broughton,58,True,18,0.64,Nicaragua,23,ZK-987
-697-XA2-935,Diane-marie Jekyll,35,False,29,0.33,Bulgaria,22,YT-531
-533-AL3-625,Nisse Cowles,18,False,41,0.47,American Samoa,22,WI-704
-608-OH6-957,Art Pilger,77,False,19,0.04,Iran,22,TJ-663
-667-JR2-621,Myranda Thorrold,12,False,34,0.75,Poland,21,NX-742
-090-PZ3-095,Andee Itzhaiek,29,True,38,0.48,Venezuela,19,KW-724
-501-ZP1-300,Garrek Swinburn,4,False,38,0.98,Philippines,23,YT-531
-790-NE3-428,Leora Blaik,22,False,22,0.98,Indonesia,19,PN-497
-195-UB7-912,Anne Bandt,48,False,29,0.57,Russia,18,TJ-663
-538-YZ7-985,Hadria Wivell,26,True,41,0.64,Pakistan,19,FO-623
-988-PW2-894,Tobe Cabel,35,False,26,0.26,Portugal,20,EZ-769
-405-RL2-174,Cinnamon Oseland,25,True,23,0.66,France,22,OF-955
-149-KM9-902,Dallis Gandy,39,False,35,0.33,Sweden,20,OF-955
-012-YY9-264,Myrna Clute,35,True,17,0.7,United States,21,KG-943
-539-BR7-978,Herta Lenchenko,24,True,39,0.16,Mexico,21,YT-531
-853-SS3-664,Maryellen Livingston,36,True,42,0.78,Sweden,22,EZ-769
-574-SW4-081,Torry Gaskins,27,False,36,0.97,Venezuela,23,EZ-769
-421-IQ6-937,Susy McGlashan,42,False,36,0.96,Uganda,28,QL-031
-638-BJ8-682,Tedra Templeton,43,False,23,0.7,Peru,23,FO-623
-026-DV0-345,Claybourne Kleinpeltz,43,False,32,0.31,Bahamas,21,JG-818
+287-EG0-894,Mufi Jaeggi,20,True,28,0.64,Israel,23,EZ-769
+099-VZ2-928,Leonie Addyman,15,False,16,0.98,United States,22,YT-531
+537-OT1-130,Urson Scrine,32,True,22,0.59,Egypt,20,OF-955
+938-II7-279,Filberto Molian,21,True,10,0.85,Ireland,21,WI-704
+173-KS0-031,Donal Wyvill,27,False,39,0.07,Pakistan,21,YT-531
+337-HW7-280,Mina Redsell,34,True,30,0.8,Philippines,20,YC-315
+107-TM5-587,Renard Gregorin,9,False,33,0.86,Greece,22,KW-724
+485-NV8-595,Sharla Leask,42,True,39,0.55,China,21,RJ-217
+497-XB8-064,Clementius Aggiss,36,True,50,0.19,Netherlands,22,YC-315
+590-VF5-178,Wayne Rigden,68,False,28,0.28,Czech Republic,24,FO-623
+572-OY8-422,Latisha Broughton,58,True,18,0.64,Nicaragua,23,YC-315
+697-XA2-935,Diane-marie Jekyll,35,False,29,0.33,Bulgaria,22,KW-724
+533-AL3-625,Nisse Cowles,18,False,41,0.47,American Samoa,22,FO-623
+608-OH6-957,Art Pilger,77,False,19,0.04,Iran,22,NX-742
+667-JR2-621,Myranda Thorrold,12,False,34,0.75,Poland,21,RJ-217
+090-PZ3-095,Andee Itzhaiek,29,True,38,0.48,Venezuela,19,YT-531
+501-ZP1-300,Garrek Swinburn,4,False,38,0.98,Philippines,23,KW-724
+790-NE3-428,Leora Blaik,22,False,22,0.98,Indonesia,19,OF-955
+195-UB7-912,Anne Bandt,48,False,29,0.57,Russia,18,EZ-769
+538-YZ7-985,Hadria Wivell,26,True,41,0.64,Pakistan,19,EZ-769
+988-PW2-894,Tobe Cabel,35,False,26,0.26,Portugal,20,ZK-987
+405-RL2-174,Cinnamon Oseland,25,True,23,0.66,France,22,WI-704
+149-KM9-902,Dallis Gandy,39,False,35,0.33,Sweden,20,FJ-273
+012-YY9-264,Myrna Clute,35,True,17,0.7,United States,21,PY-241
+539-BR7-978,Herta Lenchenko,24,True,39,0.16,Mexico,21,WI-704
+853-SS3-664,Maryellen Livingston,36,True,42,0.78,Sweden,22,YT-531
+574-SW4-081,Torry Gaskins,27,False,36,0.97,Venezuela,23,PY-241
+421-IQ6-937,Susy McGlashan,42,False,36,0.96,Uganda,28,EZ-769
+638-BJ8-682,Tedra Templeton,43,False,23,0.7,Peru,23,NX-742
+026-DV0-345,Claybourne Kleinpeltz,43,False,32,0.31,Bahamas,21,OF-955
 447-NO6-657,Ezequiel Bontine,41,False,26,0.36,Guatemala,23,RJ-217
-150-KH8-119,Ricca Shilleto,54,True,10,0.42,China,22,OF-955
-136-PX2-774,Eb Gorcke,40,False,11,0.69,Sweden,20,YT-531
-215-EA5-262,Way St Pierre,18,True,35,0.58,United States,22,QL-031
-953-WJ0-374,Roxie Revie,10,True,28,0.37,Indonesia,22,QL-031
-256-JU0-898,Scott Siely,0,True,27,0.98,China,20,QL-031
-948-MW0-107,Lezley Lehrahan,35,True,31,0.29,Ukraine,25,YT-531
-684-MS1-464,Constantino Hulle,31,False,32,0.04,China,21,FO-623
-334-NB0-937,Carlyle Renfree,51,False,18,0.9,Indonesia,21,KW-724
-363-TK0-866,Augusta Biddles,49,False,31,0.98,Indonesia,20,YZ-552
-447-TZ5-853,Zorana Girodin,20,False,36,0.73,Indonesia,19,TJ-663
-940-VQ7-135,Gayel Kelling,62,False,41,0.71,Sweden,23,PY-241
-336-IA7-754,Brandi Abrey,31,False,24,0.68,Albania,20,ZK-987
-923-NK3-296,Eugen Chavez,30,True,35,0.49,Indonesia,23,PY-241
-993-HY4-230,Darby Acton,31,False,22,0.44,Finland,20,FO-623
-423-KZ9-395,Gladi Vigietti,49,False,18,0.29,Russia,20,EZ-769
-858-FZ7-454,Shepard Erskin,27,True,20,0.47,Indonesia,22,TJ-663
-232-AP9-847,Glenna Manser,5,True,46,0.68,Sri Lanka,20,YT-531
-673-CM5-760,Mufi Elphinstone,33,False,43,0.45,Georgia,25,YZ-552
-468-VY0-092,Lynnell Kovnot,38,False,27,0.22,Palestinian Territory,19,QL-031
-129-YV2-566,Giacobo Pasticznyk,26,True,5,0.99,China,20,NX-742
-077-XZ2-791,Wilona Ding,16,False,17,0.24,Indonesia,23,EZ-769
-535-EC9-841,Pattin Clacey,22,False,30,0.77,China,24,TJ-663
-206-SO6-745,Margarette Beardshaw,60,True,40,0.34,France,21,RJ-217
-575-MW5-996,Jannel Dilger,23,True,32,0.34,Japan,23,NX-742
-137-VH7-094,Alli Caville,45,False,36,0.72,Portugal,22,ZK-987
-019-YA6-434,Theodosia Bradmore,43,False,9,0.58,Philippines,22,OF-955
-883-NV6-347,Moll Henworth,10,False,27,0.89,Lithuania,22,YC-315
+150-KH8-119,Ricca Shilleto,54,True,10,0.42,China,22,TJ-663
+136-PX2-774,Eb Gorcke,40,False,11,0.69,Sweden,20,EZ-769
+215-EA5-262,Way St Pierre,18,True,35,0.58,United States,22,ZK-987
+953-WJ0-374,Roxie Revie,10,True,28,0.37,Indonesia,22,JG-818
+256-JU0-898,Scott Siely,0,True,27,0.98,China,20,PN-497
+948-MW0-107,Lezley Lehrahan,35,True,31,0.29,Ukraine,25,ZK-987
+684-MS1-464,Constantino Hulle,31,False,32,0.04,China,21,KG-943
+334-NB0-937,Carlyle Renfree,51,False,18,0.9,Indonesia,21,FO-623
+363-TK0-866,Augusta Biddles,49,False,31,0.98,Indonesia,20,KG-943
+447-TZ5-853,Zorana Girodin,20,False,36,0.73,Indonesia,19,PY-241
+940-VQ7-135,Gayel Kelling,62,False,41,0.71,Sweden,23,OF-955
+336-IA7-754,Brandi Abrey,31,False,24,0.68,Albania,20,NX-742
+923-NK3-296,Eugen Chavez,30,True,35,0.49,Indonesia,23,YT-531
+993-HY4-230,Darby Acton,31,False,22,0.44,Finland,20,RJ-217
+423-KZ9-395,Gladi Vigietti,49,False,18,0.29,Russia,20,YC-315
+858-FZ7-454,Shepard Erskin,27,True,20,0.47,Indonesia,22,NX-742
+232-AP9-847,Glenna Manser,5,True,46,0.68,Sri Lanka,20,WI-704
+673-CM5-760,Mufi Elphinstone,33,False,43,0.45,Georgia,25,KG-943
+468-VY0-092,Lynnell Kovnot,38,False,27,0.22,Palestinian Territory,19,YC-315
+129-YV2-566,Giacobo Pasticznyk,26,True,5,0.99,China,20,FO-623
+077-XZ2-791,Wilona Ding,16,False,17,0.24,Indonesia,23,QL-031
+535-EC9-841,Pattin Clacey,22,False,30,0.77,China,24,QL-031
+206-SO6-745,Margarette Beardshaw,60,True,40,0.34,France,21,QL-031
+575-MW5-996,Jannel Dilger,23,True,32,0.34,Japan,23,FJ-273
+137-VH7-094,Alli Caville,45,False,36,0.72,Portugal,22,YC-315
+019-YA6-434,Theodosia Bradmore,43,False,9,0.58,Philippines,22,TJ-663
+883-NV6-347,Moll Henworth,10,False,27,0.89,Lithuania,22,RJ-217
 953-RG3-717,Laurella Rangeley,32,True,34,0.61,Sweden,21,RJ-217
-105-LE9-681,Mitch Hansell,32,True,31,0.43,China,20,KG-943
-497-NN2-934,Wesley Speight,51,True,32,0.78,Russia,19,OF-955
-498-OE3-923,Gray Ennew,31,False,28,0.5,China,25,JG-818
-336-WJ5-355,Prescott Fleckness,31,False,40,0.79,Indonesia,20,PY-241
-885-TY9-138,Jacquelin Elcock,29,False,33,0.56,Philippines,24,FO-623
-113-FN6-163,Randolf Pantlin,25,True,32,0.52,Japan,23,YT-531
-235-TG9-344,Dino Boyfield,44,False,37,0.3,Bangladesh,21,YC-315
-896-PV6-045,Sibyl Hamper,68,False,26,0.84,Netherlands,22,NX-742
-911-UZ2-387,Vanda Sheerman,25,True,31,0.5,China,21,ZK-987
-573-EJ9-526,Sherilyn Whyteman,52,True,16,0.52,Yemen,22,YT-531
-350-OW8-189,Sibylla Antrack,20,True,15,0.81,Philippines,23,YZ-552
-972-NV7-665,Sari Longega,27,False,28,0.83,Indonesia,23,ZK-987
-388-PF0-032,Catlee Oliva,46,True,22,0.58,Indonesia,25,FO-623
-026-OK4-216,Tymon Herrema,45,True,18,0.68,Malta,23,QL-031
-329-IB4-438,Jamima Eye,42,False,25,0.84,Indonesia,24,YC-315
-797-OL2-048,Murry Clavering,54,True,59,0.22,Malaysia,21,EZ-769
-820-VF0-315,Gabriele Eakley,21,True,30,0.26,Finland,21,KW-724
-202-JI2-281,Blake Riedel,37,True,31,0.64,Russia,23,PY-241
-387-VU1-537,Ethelind Lovick,0,False,39,0.01,United States,21,YC-315
-929-IE3-998,Jasen Wiltshear,15,False,38,0.91,Colombia,19,FO-623
-666-LD9-468,Goldina Luscott,16,True,40,0.83,Jordan,25,ZK-987
-165-VX6-160,Devin Barkley,7,True,24,0.83,Russia,22,FJ-273
-631-FG0-177,Ricoriki Reisenstein,59,True,17,0.06,China,20,KW-724
-150-HK0-540,Debora Stephenson,28,True,47,0.72,Kenya,26,OF-955
-121-BM3-182,Anabel McBoyle,32,False,38,0.85,Mexico,24,YT-531
-698-SQ6-993,Tabbitha Corben,13,True,34,0.84,France,22,RJ-217
-545-UT1-058,Eduardo Francecione,35,False,25,0.65,Afghanistan,22,NX-742
-675-BK0-074,Kaycee Laughton,32,False,52,0.35,Philippines,22,EZ-769
+105-LE9-681,Mitch Hansell,32,True,31,0.43,China,20,YT-531
+497-NN2-934,Wesley Speight,51,True,32,0.78,Russia,19,PN-497
+498-OE3-923,Gray Ennew,31,False,28,0.5,China,25,FO-623
+336-WJ5-355,Prescott Fleckness,31,False,40,0.79,Indonesia,20,KG-943
+885-TY9-138,Jacquelin Elcock,29,False,33,0.56,Philippines,24,YC-315
+113-FN6-163,Randolf Pantlin,25,True,32,0.52,Japan,23,YC-315
+235-TG9-344,Dino Boyfield,44,False,37,0.3,Bangladesh,21,TJ-663
+896-PV6-045,Sibyl Hamper,68,False,26,0.84,Netherlands,22,KW-724
+911-UZ2-387,Vanda Sheerman,25,True,31,0.5,China,21,KW-724
+573-EJ9-526,Sherilyn Whyteman,52,True,16,0.52,Yemen,22,OF-955
+350-OW8-189,Sibylla Antrack,20,True,15,0.81,Philippines,23,PN-497
+972-NV7-665,Sari Longega,27,False,28,0.83,Indonesia,23,WI-704
+388-PF0-032,Catlee Oliva,46,True,22,0.58,Indonesia,25,RJ-217
+026-OK4-216,Tymon Herrema,45,True,18,0.68,Malta,23,PN-497
+329-IB4-438,Jamima Eye,42,False,25,0.84,Indonesia,24,KW-724
+797-OL2-048,Murry Clavering,54,True,59,0.22,Malaysia,21,WI-704
+820-VF0-315,Gabriele Eakley,21,True,30,0.26,Finland,21,FO-623
+202-JI2-281,Blake Riedel,37,True,31,0.64,Russia,23,FJ-273
+387-VU1-537,Ethelind Lovick,0,False,39,0.01,United States,21,KG-943
+929-IE3-998,Jasen Wiltshear,15,False,38,0.91,Colombia,19,PY-241
+666-LD9-468,Goldina Luscott,16,True,40,0.83,Jordan,25,PN-497
+165-VX6-160,Devin Barkley,7,True,24,0.83,Russia,22,OF-955
+631-FG0-177,Ricoriki Reisenstein,59,True,17,0.06,China,20,YC-315
+150-HK0-540,Debora Stephenson,28,True,47,0.72,Kenya,26,KW-724
+121-BM3-182,Anabel McBoyle,32,False,38,0.85,Mexico,24,NX-742
+698-SQ6-993,Tabbitha Corben,13,True,34,0.84,France,22,YZ-552
+545-UT1-058,Eduardo Francecione,35,False,25,0.65,Afghanistan,22,KG-943
+675-BK0-074,Kaycee Laughton,32,False,52,0.35,Philippines,22,TJ-663
 660-WB9-234,Florette Owbridge,54,True,30,0.05,France,21,EZ-769
-271-PA2-295,Kane Pettus,0,True,39,0.71,China,21,YC-315
-969-JJ9-407,Jerri Hens,25,False,18,0.8,Czech Republic,23,WI-704
-466-ZP3-733,Bernadette Mabbe,52,False,33,0.8,China,17,YT-531
-148-ET5-060,Marissa Showalter,34,True,30,0.86,China,24,KG-943
-083-BY0-556,Tarra Rozenbaum,16,False,30,0.81,Brazil,21,YT-531
-331-LN7-902,Roman Sizland,51,False,20,0.14,Tanzania,22,PN-497
-168-PW3-948,Eddie Davydkov,30,True,29,0.17,Egypt,25,QL-031
-219-WF6-997,Fifine Beazey,24,False,50,0.93,Sweden,24,RJ-217
-648-XL5-837,Mozes Regelous,66,False,26,0.38,Brazil,20,FO-623
-807-SU7-256,Teddie Whitehorne,33,True,22,0.02,China,20,PY-241
-975-OH7-196,Sascha Innot,0,True,24,0.95,Thailand,25,TJ-663
-423-WR4-647,Ian Tudhope,19,True,24,0.38,South Africa,19,JG-818
-261-XO4-843,Genvieve Chillingsworth,33,False,7,0.28,Panama,24,YT-531
-170-AS8-365,Sarah Hadye,17,True,29,0.85,Indonesia,24,JG-818
-109-JT9-449,Damien Byk,30,True,45,0.41,Indonesia,23,WI-704
-698-TZ0-775,Rusty Roser,43,False,26,0.98,Indonesia,25,OF-955
-119-ER9-769,Philip Taunton.,19,True,29,0.57,Indonesia,20,FO-623
-238-SM0-377,Fredra Anscott,30,False,39,0.17,Ireland,24,FO-623
-491-VX2-917,Darbee Arrighetti,24,False,45,0.74,Thailand,24,TJ-663
-231-FW9-619,Ruy Dossantos,46,True,12,0.27,Canada,22,FJ-273
-615-AS5-896,Baldwin Gokes,58,False,29,0.63,Portugal,23,FJ-273
-441-CM4-217,Shandie Batman,18,True,27,0.53,Italy,22,KG-943
-254-NM8-355,Bethena Ilyas,11,False,29,0.66,Indonesia,20,YZ-552
-871-AB5-477,Joannes Greenroa,7,True,29,0.63,Indonesia,22,PY-241
-982-TF5-492,Nydia Trillow,50,False,27,0.82,Indonesia,24,EZ-769
-827-LU5-734,Arnoldo Suggett,55,False,41,0.66,Canada,20,EZ-769
+271-PA2-295,Kane Pettus,0,True,39,0.71,China,21,TJ-663
+969-JJ9-407,Jerri Hens,25,False,18,0.8,Czech Republic,23,TJ-663
+466-ZP3-733,Bernadette Mabbe,52,False,33,0.8,China,17,YC-315
+148-ET5-060,Marissa Showalter,34,True,30,0.86,China,24,RJ-217
+083-BY0-556,Tarra Rozenbaum,16,False,30,0.81,Brazil,21,YC-315
+331-LN7-902,Roman Sizland,51,False,20,0.14,Tanzania,22,FJ-273
+168-PW3-948,Eddie Davydkov,30,True,29,0.17,Egypt,25,ZK-987
+219-WF6-997,Fifine Beazey,24,False,50,0.93,Sweden,24,YT-531
+648-XL5-837,Mozes Regelous,66,False,26,0.38,Brazil,20,EZ-769
+807-SU7-256,Teddie Whitehorne,33,True,22,0.02,China,20,TJ-663
+975-OH7-196,Sascha Innot,0,True,24,0.95,Thailand,25,PY-241
+423-WR4-647,Ian Tudhope,19,True,24,0.38,South Africa,19,WI-704
+261-XO4-843,Genvieve Chillingsworth,33,False,7,0.28,Panama,24,WI-704
+170-AS8-365,Sarah Hadye,17,True,29,0.85,Indonesia,24,OF-955
+109-JT9-449,Damien Byk,30,True,45,0.41,Indonesia,23,OF-955
+698-TZ0-775,Rusty Roser,43,False,26,0.98,Indonesia,25,ZK-987
+119-ER9-769,Philip Taunton.,19,True,29,0.57,Indonesia,20,YC-315
+238-SM0-377,Fredra Anscott,30,False,39,0.17,Ireland,24,JG-818
+491-VX2-917,Darbee Arrighetti,24,False,45,0.74,Thailand,24,YC-315
+231-FW9-619,Ruy Dossantos,46,True,12,0.27,Canada,22,QL-031
+615-AS5-896,Baldwin Gokes,58,False,29,0.63,Portugal,23,KW-724
+441-CM4-217,Shandie Batman,18,True,27,0.53,Italy,22,YZ-552
+254-NM8-355,Bethena Ilyas,11,False,29,0.66,Indonesia,20,KG-943
+871-AB5-477,Joannes Greenroa,7,True,29,0.63,Indonesia,22,JG-818
+982-TF5-492,Nydia Trillow,50,False,27,0.82,Indonesia,24,WI-704
+827-LU5-734,Arnoldo Suggett,55,False,41,0.66,Canada,20,YZ-552
 333-RA3-883,Lewes Haythorn,22,True,49,0.19,Canada,20,OF-955
-137-JI5-502,Cassie Jahncke,3,True,43,0.93,Kazakhstan,20,YZ-552
-772-UU8-666,Hermina Craydon,41,True,40,0.86,Brazil,19,FO-623
-949-QN0-142,Myrvyn Birrel,42,False,31,0.93,Belarus,23,FJ-273
-505-HS9-547,Hazel Asel,6,True,31,0.08,China,20,FO-623
+137-JI5-502,Cassie Jahncke,3,True,43,0.93,Kazakhstan,20,KW-724
+772-UU8-666,Hermina Craydon,41,True,40,0.86,Brazil,19,TJ-663
+949-QN0-142,Myrvyn Birrel,42,False,31,0.93,Belarus,23,KW-724
+505-HS9-547,Hazel Asel,6,True,31,0.08,China,20,YC-315
 726-CN4-685,Neel Sawnwy,21,True,21,0.79,Indonesia,22,FJ-273
-498-UG9-961,Reginauld Guerola,39,False,18,0.3,Nigeria,23,NX-742
-951-FS1-993,Tami Brisseau,38,True,40,0.78,Vietnam,18,ZK-987
-012-WS5-050,Katrina Capnerhurst,53,True,26,0.34,Philippines,21,EZ-769
-852-KN7-102,Jameson Plimmer,70,True,38,0.83,Brazil,27,JG-818
-180-ID3-230,Farris Askaw,47,True,30,0.55,Sweden,23,KW-724
-505-OR0-301,Wait Pates,48,True,44,0.54,Aland Islands,22,FJ-273
-839-JP9-828,Perla Doldon,16,True,31,0.88,France,18,YC-315
+498-UG9-961,Reginauld Guerola,39,False,18,0.3,Nigeria,23,YZ-552
+951-FS1-993,Tami Brisseau,38,True,40,0.78,Vietnam,18,JG-818
+012-WS5-050,Katrina Capnerhurst,53,True,26,0.34,Philippines,21,OF-955
+852-KN7-102,Jameson Plimmer,70,True,38,0.83,Brazil,27,PN-497
+180-ID3-230,Farris Askaw,47,True,30,0.55,Sweden,23,YC-315
+505-OR0-301,Wait Pates,48,True,44,0.54,Aland Islands,22,KW-724
+839-JP9-828,Perla Doldon,16,True,31,0.88,France,18,KG-943
 430-WF9-896,Carlina Arndell,17,True,23,0.68,Macedonia,21,ZK-987
-368-LR6-365,Harlan Gitting,3,True,31,0.27,Poland,21,TJ-663
-919-AM1-033,Shurlock Brodest,28,False,41,0.67,Indonesia,24,EZ-769
-747-IG0-231,Pascal Dellow,17,True,15,0.29,Indonesia,20,PY-241
-083-HE7-565,Ertha MacMurray,28,False,42,0.92,China,25,FO-623
-107-DX1-283,Slade Yeo,43,False,16,0.51,Cameroon,20,YC-315
-664-ZP6-357,Cesaro Goodliffe,41,False,40,0.86,Venezuela,21,RJ-217
-454-QG1-865,Terrie Keveren,36,True,28,0.88,Faroe Islands,22,FO-623
-634-UD2-328,Adair Edrich,40,False,32,0.17,Haiti,21,WI-704
-139-NX5-776,Kennie Molder,4,False,35,0.57,Vietnam,23,WI-704
-245-UT0-166,Wernher McGrann,54,False,30,0.07,Indonesia,22,KW-724
-961-JB4-917,Allister Barnish,41,False,28,0.81,Latvia,21,ZK-987
-733-ZD7-071,Lindy Perview,8,True,10,0.19,China,23,QL-031
-912-BN7-696,Walt Aird,40,False,27,0.57,Peru,19,YZ-552
-491-FU9-510,Jesse Moen,36,True,18,0.47,Kuwait,24,FJ-273
+368-LR6-365,Harlan Gitting,3,True,31,0.27,Poland,21,OF-955
+919-AM1-033,Shurlock Brodest,28,False,41,0.67,Indonesia,24,PY-241
+747-IG0-231,Pascal Dellow,17,True,15,0.29,Indonesia,20,WI-704
+083-HE7-565,Ertha MacMurray,28,False,42,0.92,China,25,YZ-552
+107-DX1-283,Slade Yeo,43,False,16,0.51,Cameroon,20,JG-818
+664-ZP6-357,Cesaro Goodliffe,41,False,40,0.86,Venezuela,21,QL-031
+454-QG1-865,Terrie Keveren,36,True,28,0.88,Faroe Islands,22,KG-943
+634-UD2-328,Adair Edrich,40,False,32,0.17,Haiti,21,NX-742
+139-NX5-776,Kennie Molder,4,False,35,0.57,Vietnam,23,RJ-217
+245-UT0-166,Wernher McGrann,54,False,30,0.07,Indonesia,22,YZ-552
+961-JB4-917,Allister Barnish,41,False,28,0.81,Latvia,21,YC-315
+733-ZD7-071,Lindy Perview,8,True,10,0.19,China,23,KW-724
+912-BN7-696,Walt Aird,40,False,27,0.57,Peru,19,RJ-217
+491-FU9-510,Jesse Moen,36,True,18,0.47,Kuwait,24,QL-031
 282-JJ5-864,Stefano Lenahan,8,True,23,0.95,Sweden,24,KG-943
-873-QW3-024,Mathilda Lurner,15,True,54,0.35,Russia,22,PY-241
-477-VA4-962,Emmy Spenton,22,False,43,0.97,China,20,WI-704
-624-NI5-861,Gregg Tenney,5,True,13,0.31,Indonesia,23,PY-241
-097-GV5-335,Leslie Saward,27,True,11,0.18,Philippines,21,NX-742
-829-AT9-252,Kitty Roz,47,True,37,0.2,Botswana,23,FO-623
-765-VE0-037,Kalil Mobius,54,True,37,0.96,Russia,22,NX-742
-325-JO8-424,Griffy Kitcher,39,False,14,0.65,Russia,20,YZ-552
-999-LK9-018,Libbie Lafontaine,40,True,24,0.08,Dominican Republic,19,YZ-552
-194-VU7-870,Lay Feyer,49,True,25,0.34,Russia,26,JG-818
-217-OP6-426,Armin Marchetti,70,True,20,0.5,China,19,YC-315
-125-ZU5-652,Darcey McIlreavy,11,True,40,0.06,Panama,24,FO-623
-855-SK1-091,Laural Cottel,29,True,42,0.63,Belarus,24,QL-031
+873-QW3-024,Mathilda Lurner,15,True,54,0.35,Russia,22,WI-704
+477-VA4-962,Emmy Spenton,22,False,43,0.97,China,20,YC-315
+624-NI5-861,Gregg Tenney,5,True,13,0.31,Indonesia,23,KG-943
+097-GV5-335,Leslie Saward,27,True,11,0.18,Philippines,21,KG-943
+829-AT9-252,Kitty Roz,47,True,37,0.2,Botswana,23,FJ-273
+765-VE0-037,Kalil Mobius,54,True,37,0.96,Russia,22,OF-955
+325-JO8-424,Griffy Kitcher,39,False,14,0.65,Russia,20,JG-818
+999-LK9-018,Libbie Lafontaine,40,True,24,0.08,Dominican Republic,19,PY-241
+194-VU7-870,Lay Feyer,49,True,25,0.34,Russia,26,RJ-217
+217-OP6-426,Armin Marchetti,70,True,20,0.5,China,19,PN-497
+125-ZU5-652,Darcey McIlreavy,11,True,40,0.06,Panama,24,KG-943
+855-SK1-091,Laural Cottel,29,True,42,0.63,Belarus,24,EZ-769
 272-YX1-017,Cassi Caldeiro,28,True,34,0.8,Poland,19,RJ-217
-612-ND9-668,Fred Margram,26,False,19,0.29,Japan,23,TJ-663
-099-ZX7-057,Emmie Wichard,30,True,15,0.6,Poland,23,TJ-663
-847-OK3-068,Ogdon Vaud,39,True,40,0.63,Nigeria,20,OF-955
-669-GJ0-771,Conny Girk,37,False,42,0.21,China,21,PY-241
-086-EO9-108,Gwenneth Scipsey,2,True,13,0.61,Poland,20,NX-742
-514-GT6-516,Belicia Silverthorn,48,True,21,0.39,Philippines,23,JG-818
-810-EU7-341,Marwin Whorton,16,False,31,0.58,Canada,20,WI-704
-245-OQ2-889,Lynea Smye,60,False,20,0.73,Portugal,21,RJ-217
-941-VZ6-355,Leighton De Antoni,61,True,46,0.21,Portugal,22,EZ-769
-867-KO8-972,Boote Clemetts,64,False,28,0.85,China,24,TJ-663
-979-PJ2-297,Madlen Pickles,10,True,19,0.06,China,21,KW-724
-248-VK0-092,Norry Richmond,28,False,18,0.7,Brazil,22,YZ-552
-884-BE6-289,Danita Faulkner,33,True,41,0.23,Poland,19,ZK-987
-709-AP9-464,Aurie Saenz,54,False,23,0.26,Colombia,24,YT-531
-950-YB7-788,Mariele Cummine,37,False,36,0.16,Philippines,19,PY-241
-550-NN2-712,See Momford,16,False,40,0.56,China,22,KW-724
+612-ND9-668,Fred Margram,26,False,19,0.29,Japan,23,FO-623
+099-ZX7-057,Emmie Wichard,30,True,15,0.6,Poland,23,YZ-552
+847-OK3-068,Ogdon Vaud,39,True,40,0.63,Nigeria,20,YZ-552
+669-GJ0-771,Conny Girk,37,False,42,0.21,China,21,OF-955
+086-EO9-108,Gwenneth Scipsey,2,True,13,0.61,Poland,20,OF-955
+514-GT6-516,Belicia Silverthorn,48,True,21,0.39,Philippines,23,KG-943
+810-EU7-341,Marwin Whorton,16,False,31,0.58,Canada,20,OF-955
+245-OQ2-889,Lynea Smye,60,False,20,0.73,Portugal,21,YC-315
+941-VZ6-355,Leighton De Antoni,61,True,46,0.21,Portugal,22,RJ-217
+867-KO8-972,Boote Clemetts,64,False,28,0.85,China,24,YT-531
+979-PJ2-297,Madlen Pickles,10,True,19,0.06,China,21,ZK-987
+248-VK0-092,Norry Richmond,28,False,18,0.7,Brazil,22,YT-531
+884-BE6-289,Danita Faulkner,33,True,41,0.23,Poland,19,QL-031
+709-AP9-464,Aurie Saenz,54,False,23,0.26,Colombia,24,FO-623
+950-YB7-788,Mariele Cummine,37,False,36,0.16,Philippines,19,FJ-273
+550-NN2-712,See Momford,16,False,40,0.56,China,22,FJ-273
 670-SW2-431,Waverly Drinkel,29,False,43,0.1,Canada,22,FO-623
-431-IH0-842,Malvina Orrick,35,False,46,0.38,Russia,21,YT-531
-348-CU6-376,Maria Lillegard,30,False,27,0.05,South Georgia and the South Sandwich Islands,22,QL-031
-514-PJ0-491,Sherlock Tredgold,48,False,34,0.12,Croatia,26,OF-955
-336-EQ2-023,Trudy Stoving,33,False,31,0.79,Indonesia,22,JG-818
-683-ET7-415,Abby Gabe,33,False,41,0.36,Mayotte,23,QL-031
-085-XY3-095,Anastassia Edds,21,True,20,0.02,Brazil,23,TJ-663
-379-WJ2-076,Wylie Steptow,58,False,23,0.53,Nigeria,21,FJ-273
-137-UH3-255,Darn Piletic,47,False,24,0.16,Paraguay,21,TJ-663
-542-AG7-825,Chancey Cantor,8,True,13,0.37,Mongolia,26,QL-031
-864-AL3-540,Cosetta Dugood,42,True,23,0.38,Indonesia,22,KW-724
-300-NN0-639,Carolynn Neate,31,True,35,0.16,China,24,RJ-217
-941-AR2-289,Nan Oxenham,34,False,33,0.4,Sweden,20,KW-724
-821-RI9-071,Tally Agnew,56,False,47,0.84,United States,24,YT-531
-007-UM9-521,Cicily Delyth,25,True,36,0.41,Latvia,24,PN-497
-182-YU8-111,Regan Townsend,12,True,30,0.43,Indonesia,25,KG-943
-150-KE8-944,Palmer Fitzsimons,36,False,33,0.02,Brazil,26,YZ-552
-791-RR9-878,Clint Docket,40,False,53,0.05,Nigeria,23,TJ-663
-158-WF6-074,Oralie Brandolini,34,True,22,0.8,Portugal,23,YZ-552
-283-HI8-051,Levy Adamski,46,False,36,0.71,United States,24,ZK-987
-808-MV9-013,Jamie McBlain,16,True,32,0.63,Canada,23,EZ-769
+431-IH0-842,Malvina Orrick,35,False,46,0.38,Russia,21,FO-623
+348-CU6-376,Maria Lillegard,30,False,27,0.05,South Georgia and the South Sandwich Islands,22,RJ-217
+514-PJ0-491,Sherlock Tredgold,48,False,34,0.12,Croatia,26,QL-031
+336-EQ2-023,Trudy Stoving,33,False,31,0.79,Indonesia,22,ZK-987
+683-ET7-415,Abby Gabe,33,False,41,0.36,Mayotte,23,WI-704
+085-XY3-095,Anastassia Edds,21,True,20,0.02,Brazil,23,KW-724
+379-WJ2-076,Wylie Steptow,58,False,23,0.53,Nigeria,21,PY-241
+137-UH3-255,Darn Piletic,47,False,24,0.16,Paraguay,21,OF-955
+542-AG7-825,Chancey Cantor,8,True,13,0.37,Mongolia,26,ZK-987
+864-AL3-540,Cosetta Dugood,42,True,23,0.38,Indonesia,22,EZ-769
+300-NN0-639,Carolynn Neate,31,True,35,0.16,China,24,OF-955
+941-AR2-289,Nan Oxenham,34,False,33,0.4,Sweden,20,TJ-663
+821-RI9-071,Tally Agnew,56,False,47,0.84,United States,24,TJ-663
+007-UM9-521,Cicily Delyth,25,True,36,0.41,Latvia,24,NX-742
+182-YU8-111,Regan Townsend,12,True,30,0.43,Indonesia,25,YZ-552
+150-KE8-944,Palmer Fitzsimons,36,False,33,0.02,Brazil,26,PN-497
+791-RR9-878,Clint Docket,40,False,53,0.05,Nigeria,23,YT-531
+158-WF6-074,Oralie Brandolini,34,True,22,0.8,Portugal,23,PN-497
+283-HI8-051,Levy Adamski,46,False,36,0.71,United States,24,KW-724
+808-MV9-013,Jamie McBlain,16,True,32,0.63,Canada,23,YZ-552
 141-VN7-262,Lyssa Kayes,35,True,38,0.49,Indonesia,25,RJ-217
 938-LR9-541,Amargo Abernethy,63,False,27,0.93,Benin,20,FO-623
-121-VV3-090,Lucien Seeney,27,False,24,0.71,Russia,20,TJ-663
-377-WK5-057,Tatiania Cristofano,24,True,21,0.37,Philippines,24,PY-241
-591-BN3-080,Nefen Marrows,60,True,32,0.93,Indonesia,20,QL-031
-036-UN8-401,Heidie Faughey,13,True,30,0.97,Russia,23,WI-704
-189-CI5-040,Irwin Ginie,47,False,49,0.2,Ukraine,23,FO-623
-388-SN9-224,Feodora Rowesby,5,False,22,0.02,Portugal,21,ZK-987
+121-VV3-090,Lucien Seeney,27,False,24,0.71,Russia,20,KW-724
+377-WK5-057,Tatiania Cristofano,24,True,21,0.37,Philippines,24,JG-818
+591-BN3-080,Nefen Marrows,60,True,32,0.93,Indonesia,20,FJ-273
+036-UN8-401,Heidie Faughey,13,True,30,0.97,Russia,23,NX-742
+189-CI5-040,Irwin Ginie,47,False,49,0.2,Ukraine,23,OF-955
+388-SN9-224,Feodora Rowesby,5,False,22,0.02,Portugal,21,YT-531
 320-RQ6-732,Dulcinea Mouget,38,False,9,0.49,Indonesia,25,NX-742
-502-NH5-738,Henrietta Turneaux,38,False,44,0.59,China,23,FO-623
-398-DI1-648,Burlie Rawdales,53,False,29,0.12,Indonesia,20,PN-497
-291-RB2-713,Berrie Heatherington,72,True,45,0.16,Jordan,23,FO-623
-943-NO0-821,Lorettalorna Gwinnell,35,False,50,0.28,China,21,YZ-552
-896-KP3-983,Brig Falkinder,0,True,42,0.2,South Africa,22,ZK-987
-696-ZO4-110,Eadmund Myerscough,23,False,15,0.81,Poland,21,OF-955
-325-TW2-554,Robby Bartos,59,True,38,0.36,Brazil,23,PN-497
-321-KQ3-280,Erina Mapholm,22,True,37,0.08,Tunisia,26,TJ-663
-960-QB7-972,Timmie Londer,32,False,29,0.96,Angola,20,FO-623
-161-XP3-564,Stacee Loughead,49,True,29,0.09,Philippines,26,QL-031
-172-NA6-376,Genevieve Di Biasi,52,True,40,0.47,Poland,26,FJ-273
-454-ES1-200,Brig Whitebrook,59,False,29,0.04,France,21,YT-531
-509-TG5-593,Christabella Inwood,54,True,31,0.24,Chile,25,FO-623
-502-QG2-172,Lark Beadle,62,False,36,0.76,Russia,22,RJ-217
-223-JC4-074,Jeffie Scorrer,31,True,34,0.65,Czech Republic,23,JG-818
-828-BO5-233,Morgen Sewley,35,False,40,0.86,France,25,OF-955
-047-UK8-591,Vilma Conachy,44,True,30,0.44,China,22,YZ-552
-266-DY9-216,Abraham Kingaby,54,True,27,0.21,Finland,24,JG-818
-782-JZ2-922,Chance Baxster,29,True,38,0.76,Thailand,24,YZ-552
-606-EB2-035,Boniface Mayhow,28,False,19,0.83,Philippines,27,YC-315
-413-VS7-660,Forest Clausewitz,4,False,39,0.79,Indonesia,25,PY-241
-716-YB3-777,Elva Tydeman,48,True,38,0.5,China,23,QL-031
-365-LI2-338,Tabbie Gipps,11,False,26,0.19,Japan,22,JG-818
+502-NH5-738,Henrietta Turneaux,38,False,44,0.59,China,23,FJ-273
+398-DI1-648,Burlie Rawdales,53,False,29,0.12,Indonesia,20,RJ-217
+291-RB2-713,Berrie Heatherington,72,True,45,0.16,Jordan,23,YC-315
+943-NO0-821,Lorettalorna Gwinnell,35,False,50,0.28,China,21,TJ-663
+896-KP3-983,Brig Falkinder,0,True,42,0.2,South Africa,22,KG-943
+696-ZO4-110,Eadmund Myerscough,23,False,15,0.81,Poland,21,RJ-217
+325-TW2-554,Robby Bartos,59,True,38,0.36,Brazil,23,EZ-769
+321-KQ3-280,Erina Mapholm,22,True,37,0.08,Tunisia,26,RJ-217
+960-QB7-972,Timmie Londer,32,False,29,0.96,Angola,20,KW-724
+161-XP3-564,Stacee Loughead,49,True,29,0.09,Philippines,26,FO-623
+172-NA6-376,Genevieve Di Biasi,52,True,40,0.47,Poland,26,EZ-769
+454-ES1-200,Brig Whitebrook,59,False,29,0.04,France,21,PY-241
+509-TG5-593,Christabella Inwood,54,True,31,0.24,Chile,25,PN-497
+502-QG2-172,Lark Beadle,62,False,36,0.76,Russia,22,WI-704
+223-JC4-074,Jeffie Scorrer,31,True,34,0.65,Czech Republic,23,RJ-217
+828-BO5-233,Morgen Sewley,35,False,40,0.86,France,25,QL-031
+047-UK8-591,Vilma Conachy,44,True,30,0.44,China,22,EZ-769
+266-DY9-216,Abraham Kingaby,54,True,27,0.21,Finland,24,YZ-552
+782-JZ2-922,Chance Baxster,29,True,38,0.76,Thailand,24,FO-623
+606-EB2-035,Boniface Mayhow,28,False,19,0.83,Philippines,27,PY-241
+413-VS7-660,Forest Clausewitz,4,False,39,0.79,Indonesia,25,KW-724
+716-YB3-777,Elva Tydeman,48,True,38,0.5,China,23,TJ-663
+365-LI2-338,Tabbie Gipps,11,False,26,0.19,Japan,22,PN-497
 286-LF6-715,Barnabe Barkway,89,False,15,0.32,China,22,YT-531
-418-FJ8-073,Bonni Allery,17,False,18,0.4,Paraguay,24,PN-497
-797-AR8-660,Lena Brehault,15,True,35,0.43,China,18,NX-742
-383-IJ4-401,Sayer Millan,34,True,45,0.78,China,19,PY-241
-176-KA6-944,Reinhard Goly,42,False,27,0.67,Armenia,21,TJ-663
-054-LI7-004,Salvidor Camosso,32,True,34,0.26,France,23,PN-497
-959-VU6-220,Fiona Bouldon,21,True,30,0.35,Brazil,21,YZ-552
-968-JI1-429,Tamarah Style,26,False,44,0.18,Czech Republic,22,OF-955
-868-QC5-585,Wright Hatry,29,False,21,0.7,United States,20,PN-497
-921-VW8-179,Hardy Cheves,29,False,45,0.35,Azerbaijan,18,QL-031
-919-YQ0-656,Mildred Baldery,16,False,39,0.58,Thailand,24,QL-031
-834-MX1-990,Fifine Duggan,65,True,43,0.57,Venezuela,20,OF-955
-060-IK4-151,Harald Skade,69,False,32,0.27,Russia,24,FJ-273
-657-NS3-680,Leonora Di Biasio,0,False,29,0.65,Armenia,24,EZ-769
-505-TW9-961,Farly Tousey,39,False,11,0.98,Indonesia,20,OF-955
-047-WR8-552,Willie Zywicki,0,True,22,0.56,Poland,21,PY-241
-423-IF1-937,Devin Lewis,61,False,15,0.11,Macedonia,22,EZ-769
-610-HC0-562,Dasya Frostdick,29,True,7,0.88,Brazil,23,TJ-663
-629-LD8-450,Alisander Belison,19,False,26,0.5,China,21,FJ-273
-099-OV9-601,Matilde Fountain,48,True,30,0.3,Russia,22,RJ-217
-659-TY9-505,Jasun Houldin,23,False,35,0.74,Brazil,20,JG-818
+418-FJ8-073,Bonni Allery,17,False,18,0.4,Paraguay,24,YC-315
+797-AR8-660,Lena Brehault,15,True,35,0.43,China,18,WI-704
+383-IJ4-401,Sayer Millan,34,True,45,0.78,China,19,QL-031
+176-KA6-944,Reinhard Goly,42,False,27,0.67,Armenia,21,PN-497
+054-LI7-004,Salvidor Camosso,32,True,34,0.26,France,23,KG-943
+959-VU6-220,Fiona Bouldon,21,True,30,0.35,Brazil,21,KW-724
+968-JI1-429,Tamarah Style,26,False,44,0.18,Czech Republic,22,PY-241
+868-QC5-585,Wright Hatry,29,False,21,0.7,United States,20,KW-724
+921-VW8-179,Hardy Cheves,29,False,45,0.35,Azerbaijan,18,TJ-663
+919-YQ0-656,Mildred Baldery,16,False,39,0.58,Thailand,24,YC-315
+834-MX1-990,Fifine Duggan,65,True,43,0.57,Venezuela,20,NX-742
+060-IK4-151,Harald Skade,69,False,32,0.27,Russia,24,YZ-552
+657-NS3-680,Leonora Di Biasio,0,False,29,0.65,Armenia,24,YC-315
+505-TW9-961,Farly Tousey,39,False,11,0.98,Indonesia,20,PY-241
+047-WR8-552,Willie Zywicki,0,True,22,0.56,Poland,21,FO-623
+423-IF1-937,Devin Lewis,61,False,15,0.11,Macedonia,22,RJ-217
+610-HC0-562,Dasya Frostdick,29,True,7,0.88,Brazil,23,YC-315
+629-LD8-450,Alisander Belison,19,False,26,0.5,China,21,KW-724
+099-OV9-601,Matilde Fountain,48,True,30,0.3,Russia,22,YT-531
+659-TY9-505,Jasun Houldin,23,False,35,0.74,Brazil,20,QL-031
 691-HS5-320,Rena Tailby,32,True,35,0.31,Greece,22,KW-724
-195-XJ5-276,Fiona Sigars,77,False,33,0.97,Portugal,21,KW-724
-954-YH7-289,Alicea Pawling,61,True,45,0.53,Indonesia,27,KW-724
-413-LG8-183,Udell Bottelstone,28,True,40,0.18,China,17,EZ-769
-055-QD3-730,Ashlie Broose,3,False,18,0.68,United States,23,YZ-552
+195-XJ5-276,Fiona Sigars,77,False,33,0.97,Portugal,21,KG-943
+954-YH7-289,Alicea Pawling,61,True,45,0.53,Indonesia,27,TJ-663
+413-LG8-183,Udell Bottelstone,28,True,40,0.18,China,17,OF-955
+055-QD3-730,Ashlie Broose,3,False,18,0.68,United States,23,KW-724
 465-GG6-834,Uriel De Gregorio,24,True,42,0.65,China,23,EZ-769
-833-EL2-143,Dalila Hasselby,60,False,30,0.45,Greece,25,WI-704
-244-LC4-934,Violette Ciani,29,True,21,0.52,Czech Republic,25,ZK-987
-011-BZ8-879,Ethel McPartling,18,False,26,0.14,Sweden,23,OF-955
-952-IY2-424,Jobyna Wolfinger,38,False,32,1.0,Russia,24,PY-241
-922-KL8-633,Maible Harteley,32,False,39,0.56,United States,18,WI-704
-371-RT3-593,Olivie Pimlett,29,False,35,0.78,Togo,19,NX-742
-346-VD3-688,Horacio Szach,5,False,21,0.4,Brazil,22,FO-623
-872-OX1-629,Delphinia Raveau,15,False,25,0.01,Portugal,19,EZ-769
-014-KX2-244,Lori Inchcomb,24,True,36,0.22,China,21,EZ-769
-435-NG5-094,Ashlee Dalmon,81,False,44,0.53,Czech Republic,24,OF-955
-553-ZV6-348,Arielle Farron,18,True,28,0.08,Russia,24,FJ-273
-830-UE9-199,Anselma Daly,52,False,31,0.68,Indonesia,23,FJ-273
-686-QW4-321,Dorisa Milliken,0,False,35,0.34,Indonesia,20,YZ-552
-978-AY3-521,Shara Bolliver,51,True,29,0.67,Macedonia,24,FJ-273
-956-TF0-278,Catlee McCluskey,31,True,12,0.56,China,19,ZK-987
-110-BX4-594,Ashton Nizard,0,True,21,0.75,Pakistan,22,PN-497
-586-AJ7-369,Caddric Jacquest,67,False,26,0.77,Russia,26,YZ-552
-736-CY0-541,Traver Kayne,0,True,25,0.66,Thailand,20,OF-955
-201-AF1-433,Ericka Middleditch,31,True,12,0.01,Ukraine,26,KW-724
-408-MY3-161,Barbara-anne Stephens,0,False,14,0.29,Poland,22,JG-818
+833-EL2-143,Dalila Hasselby,60,False,30,0.45,Greece,25,YT-531
+244-LC4-934,Violette Ciani,29,True,21,0.52,Czech Republic,25,QL-031
+011-BZ8-879,Ethel McPartling,18,False,26,0.14,Sweden,23,YT-531
+952-IY2-424,Jobyna Wolfinger,38,False,32,1.0,Russia,24,RJ-217
+922-KL8-633,Maible Harteley,32,False,39,0.56,United States,18,YT-531
+371-RT3-593,Olivie Pimlett,29,False,35,0.78,Togo,19,YC-315
+346-VD3-688,Horacio Szach,5,False,21,0.4,Brazil,22,RJ-217
+872-OX1-629,Delphinia Raveau,15,False,25,0.01,Portugal,19,YT-531
+014-KX2-244,Lori Inchcomb,24,True,36,0.22,China,21,YZ-552
+435-NG5-094,Ashlee Dalmon,81,False,44,0.53,Czech Republic,24,YC-315
+553-ZV6-348,Arielle Farron,18,True,28,0.08,Russia,24,ZK-987
+830-UE9-199,Anselma Daly,52,False,31,0.68,Indonesia,23,ZK-987
+686-QW4-321,Dorisa Milliken,0,False,35,0.34,Indonesia,20,FJ-273
+978-AY3-521,Shara Bolliver,51,True,29,0.67,Macedonia,24,EZ-769
+956-TF0-278,Catlee McCluskey,31,True,12,0.56,China,19,YC-315
+110-BX4-594,Ashton Nizard,0,True,21,0.75,Pakistan,22,FO-623
+586-AJ7-369,Caddric Jacquest,67,False,26,0.77,Russia,26,ZK-987
+736-CY0-541,Traver Kayne,0,True,25,0.66,Thailand,20,FJ-273
+201-AF1-433,Ericka Middleditch,31,True,12,0.01,Ukraine,26,NX-742
+408-MY3-161,Barbara-anne Stephens,0,False,14,0.29,Poland,22,FO-623
 088-RL8-495,Katha Smales,58,False,31,0.88,Greece,21,FO-623
-623-RP1-771,Glory Simonassi,36,True,31,0.09,China,22,WI-704
-101-MC3-457,Taryn Genese,40,True,37,0.34,Philippines,20,EZ-769
-739-NF8-975,Dav Garms,41,False,23,0.93,China,22,ZK-987
-024-QU6-234,Ibbie Cresar,66,True,31,0.52,China,23,PY-241
-753-LI5-698,Blondell Readett,38,True,37,0.98,China,25,EZ-769
-936-XI2-910,Simonette Zemler,46,True,27,0.59,Laos,21,YT-531
-024-AX8-067,Federica Beinisch,31,False,27,0.15,Indonesia,22,PN-497
-992-HI9-917,Olia Sinclar,39,True,14,0.52,Pakistan,21,WI-704
-731-CD8-792,Suzann Soggee,49,True,45,0.25,Iran,20,ZK-987
+623-RP1-771,Glory Simonassi,36,True,31,0.09,China,22,NX-742
+101-MC3-457,Taryn Genese,40,True,37,0.34,Philippines,20,YC-315
+739-NF8-975,Dav Garms,41,False,23,0.93,China,22,YC-315
+024-QU6-234,Ibbie Cresar,66,True,31,0.52,China,23,FJ-273
+753-LI5-698,Blondell Readett,38,True,37,0.98,China,25,FO-623
+936-XI2-910,Simonette Zemler,46,True,27,0.59,Laos,21,TJ-663
+024-AX8-067,Federica Beinisch,31,False,27,0.15,Indonesia,22,YC-315
+992-HI9-917,Olia Sinclar,39,True,14,0.52,Pakistan,21,YZ-552
+731-CD8-792,Suzann Soggee,49,True,45,0.25,Iran,20,EZ-769
 881-OW4-709,Marlin Tatlock,52,True,13,0.6,Chile,22,YZ-552
-784-EO3-970,Priscilla Percival,21,True,37,0.45,Cameroon,19,WI-704
-626-EU8-855,Guillaume Penvarne,34,False,28,0.41,China,24,FJ-273
-816-SI0-037,Silvia Fall,20,False,6,0.09,Indonesia,24,YZ-552
-528-TF7-964,Garrik Huff,29,True,24,0.13,Bosnia and Herzegovina,20,WI-704
-283-XP5-616,Ursola Islip,34,True,38,0.67,China,23,YZ-552
-206-YQ6-135,Astrix Cottom,0,True,32,0.85,Russia,23,YZ-552
-293-PP7-317,Gretel Firidolfi,29,True,28,0.23,Japan,23,QL-031
-634-VS1-763,Adan Sibary,70,True,40,0.57,Philippines,22,NX-742
-318-CE0-226,Etienne Baxstair,0,True,37,0.67,Philippines,20,QL-031
-425-FK0-417,Alysa Holdron,7,False,26,0.88,Philippines,26,WI-704
-006-VZ5-126,Kiri De Beauchamp,9,True,27,0.97,Spain,23,FJ-273
-293-QD6-042,Norma Jarrard,43,False,25,0.8,China,27,YZ-552
-111-OR3-858,Corinne Busek,19,False,36,0.91,Brazil,24,EZ-769
-343-QY1-413,Sheffield Kleimt,0,False,33,0.49,China,22,PN-497
-320-QB6-645,Ranice Gussin,24,True,35,0.62,China,23,QL-031
-546-MF2-654,Nata Bougen,0,False,21,0.51,Indonesia,23,RJ-217
-899-NM7-290,Leslie Jessope,36,False,28,0.07,Thailand,22,WI-704
-615-VR4-436,Fern Loxley,6,False,27,0.86,Ukraine,23,YZ-552
-275-SJ6-935,Hewie Skittles,87,True,25,0.41,Brazil,23,OF-955
-804-ZJ9-908,Nari Mee,9,False,32,0.68,Libya,23,WI-704
-014-UU4-981,Margo Groveham,59,True,51,0.19,Sweden,24,WI-704
-595-IJ0-154,Odille Igglesden,0,True,38,0.8,Bolivia,21,PY-241
-496-IJ0-685,Darrel Blodget,0,True,29,0.23,Indonesia,22,NX-742
-511-ZM0-851,Shandeigh Whaley,47,True,27,0.6,China,24,WI-704
-187-IK8-270,Dani Kem,35,True,36,0.82,China,22,FO-623
-669-IG8-537,Birdie Melly,25,False,35,0.62,Uruguay,22,YZ-552
-817-JL5-663,Laurent Howford,55,True,33,0.41,Indonesia,22,TJ-663
+784-EO3-970,Priscilla Percival,21,True,37,0.45,Cameroon,19,KG-943
+626-EU8-855,Guillaume Penvarne,34,False,28,0.41,China,24,YT-531
+816-SI0-037,Silvia Fall,20,False,6,0.09,Indonesia,24,KW-724
+528-TF7-964,Garrik Huff,29,True,24,0.13,Bosnia and Herzegovina,20,KG-943
+283-XP5-616,Ursola Islip,34,True,38,0.67,China,23,OF-955
+206-YQ6-135,Astrix Cottom,0,True,32,0.85,Russia,23,WI-704
+293-PP7-317,Gretel Firidolfi,29,True,28,0.23,Japan,23,TJ-663
+634-VS1-763,Adan Sibary,70,True,40,0.57,Philippines,22,YC-315
+318-CE0-226,Etienne Baxstair,0,True,37,0.67,Philippines,20,KG-943
+425-FK0-417,Alysa Holdron,7,False,26,0.88,Philippines,26,FO-623
+006-VZ5-126,Kiri De Beauchamp,9,True,27,0.97,Spain,23,PN-497
+293-QD6-042,Norma Jarrard,43,False,25,0.8,China,27,YC-315
+111-OR3-858,Corinne Busek,19,False,36,0.91,Brazil,24,KW-724
+343-QY1-413,Sheffield Kleimt,0,False,33,0.49,China,22,YC-315
+320-QB6-645,Ranice Gussin,24,True,35,0.62,China,23,YZ-552
+546-MF2-654,Nata Bougen,0,False,21,0.51,Indonesia,23,PY-241
+899-NM7-290,Leslie Jessope,36,False,28,0.07,Thailand,22,YZ-552
+615-VR4-436,Fern Loxley,6,False,27,0.86,Ukraine,23,PY-241
+275-SJ6-935,Hewie Skittles,87,True,25,0.41,Brazil,23,FO-623
+804-ZJ9-908,Nari Mee,9,False,32,0.68,Libya,23,YC-315
+014-UU4-981,Margo Groveham,59,True,51,0.19,Sweden,24,FJ-273
+595-IJ0-154,Odille Igglesden,0,True,38,0.8,Bolivia,21,RJ-217
+496-IJ0-685,Darrel Blodget,0,True,29,0.23,Indonesia,22,EZ-769
+511-ZM0-851,Shandeigh Whaley,47,True,27,0.6,China,24,QL-031
+187-IK8-270,Dani Kem,35,True,36,0.82,China,22,PY-241
+669-IG8-537,Birdie Melly,25,False,35,0.62,Uruguay,22,TJ-663
+817-JL5-663,Laurent Howford,55,True,33,0.41,Indonesia,22,KG-943
 431-MA1-397,Bailey Pumphreys,23,False,30,0.85,Philippines,24,EZ-769
-487-PN8-685,Tiffani Lattka,37,True,28,0.34,Poland,25,YZ-552
-217-AF2-956,Andreana Doohaine,17,False,39,0.26,Indonesia,21,ZK-987
+487-PN8-685,Tiffani Lattka,37,True,28,0.34,Poland,25,TJ-663
+217-AF2-956,Andreana Doohaine,17,False,39,0.26,Indonesia,21,WI-704
 906-NK0-372,Reginauld Penhalurick,21,True,18,0.11,Mauritius,24,YC-315
-812-VH7-619,Rosabella Paule,37,False,25,0.43,Cameroon,22,KW-724
-675-JF6-980,Kipp Durnford,41,True,16,0.55,China,23,FO-623
-100-SK6-561,Harv Gumey,0,True,30,0.14,Ghana,24,PY-241
+812-VH7-619,Rosabella Paule,37,False,25,0.43,Cameroon,22,WI-704
+675-JF6-980,Kipp Durnford,41,True,16,0.55,China,23,PN-497
+100-SK6-561,Harv Gumey,0,True,30,0.14,Ghana,24,ZK-987
 282-AE1-498,Idelle Langtry,3,True,37,0.05,Indonesia,19,YZ-552
-929-OP6-561,Avram Perillo,12,True,13,0.44,China,20,PN-497
-494-KK3-479,Kale Dunabie,25,True,41,0.05,France,28,YC-315
-138-MB4-664,Briano Devereu,46,False,28,0.2,Poland,22,YZ-552
-189-HN4-014,Alvinia Gallgher,41,True,22,0.24,China,22,EZ-769
-779-RX3-252,Catherina Firpi,66,False,30,0.56,Indonesia,19,FO-623
-574-NW9-821,Patty Easterbrook,0,True,47,0.9,China,22,NX-742
-065-NL5-886,Erasmus Francais,41,True,18,0.31,Czech Republic,27,QL-031
-670-OJ8-421,Lenard Courtney,49,False,30,0.49,Germany,21,RJ-217
-824-XA8-283,Marquita McCrohon,8,True,21,0.85,China,23,FO-623
-922-WB0-616,Lorri Doring,17,False,25,0.63,Portugal,21,KG-943
-335-HF1-289,Beck Warsop,40,False,26,0.6,China,20,YT-531
-140-HH7-061,Sharon Dekeyser,14,False,31,0.68,Canada,21,YZ-552
-331-BK3-901,Lionel Crossley,1,True,34,0.56,Trinidad and Tobago,20,NX-742
-657-FV3-319,Peterus Imos,55,True,31,0.62,Portugal,21,NX-742
-144-PU7-987,Orelee Kensitt,20,False,18,0.94,Colombia,22,OF-955
+929-OP6-561,Avram Perillo,12,True,13,0.44,China,20,YT-531
+494-KK3-479,Kale Dunabie,25,True,41,0.05,France,28,WI-704
+138-MB4-664,Briano Devereu,46,False,28,0.2,Poland,22,YC-315
+189-HN4-014,Alvinia Gallgher,41,True,22,0.24,China,22,TJ-663
+779-RX3-252,Catherina Firpi,66,False,30,0.56,Indonesia,19,QL-031
+574-NW9-821,Patty Easterbrook,0,True,47,0.9,China,22,JG-818
+065-NL5-886,Erasmus Francais,41,True,18,0.31,Czech Republic,27,KG-943
+670-OJ8-421,Lenard Courtney,49,False,30,0.49,Germany,21,TJ-663
+824-XA8-283,Marquita McCrohon,8,True,21,0.85,China,23,ZK-987
+922-WB0-616,Lorri Doring,17,False,25,0.63,Portugal,21,EZ-769
+335-HF1-289,Beck Warsop,40,False,26,0.6,China,20,YZ-552
+140-HH7-061,Sharon Dekeyser,14,False,31,0.68,Canada,21,TJ-663
+331-BK3-901,Lionel Crossley,1,True,34,0.56,Trinidad and Tobago,20,WI-704
+657-FV3-319,Peterus Imos,55,True,31,0.62,Portugal,21,PY-241
+144-PU7-987,Orelee Kensitt,20,False,18,0.94,Colombia,22,NX-742
 984-NJ8-256,Cris Satyford,16,True,33,0.38,Central African Republic,23,KG-943
-449-FV4-087,Alyson Brinkler,9,True,41,0.25,Finland,19,WI-704
-642-AE1-323,Grata Gannan,8,False,26,0.8,Czech Republic,20,NX-742
-716-OI6-500,Dwain Berzen,16,True,28,0.58,Indonesia,26,OF-955
-787-ED5-558,Alyosha Rudd,24,True,46,0.41,Indonesia,24,OF-955
-902-FU9-556,Ddene Spedroni,27,True,26,0.21,Kazakhstan,23,QL-031
-381-UZ3-413,Malina Siveter,67,True,27,0.71,China,22,WI-704
-478-EO8-271,Florencia Hansley,52,False,30,0.51,Indonesia,25,YT-531
-835-SA6-519,Minor Malling,38,False,31,0.37,Thailand,24,YC-315
-080-WF3-784,Leanora Alu,63,True,21,0.36,Pakistan,20,YC-315
-791-CC3-355,Tomkin Knatt,49,True,28,0.1,China,23,QL-031
-815-UI9-718,Cristal Rout,33,False,12,0.29,Brazil,24,ZK-987
-628-TI8-442,Ody Yarnold,39,True,39,0.83,Belarus,20,JG-818
-262-XN6-196,Jase Parratt,33,False,29,0.65,China,21,RJ-217
-749-GR1-967,Theodoric Sheard,34,False,36,0.04,Ukraine,20,YT-531
-560-WX2-970,Laurie Sheaber,43,True,24,0.57,Russia,20,QL-031
-844-HR8-474,Mabelle Dubock,32,False,25,0.77,Finland,21,FO-623
-014-JL4-950,Sandy Wethey,35,False,33,0.77,Indonesia,23,PY-241
-935-CX7-430,Estelle Priest,40,True,31,0.65,Mexico,19,JG-818
+449-FV4-087,Alyson Brinkler,9,True,41,0.25,Finland,19,ZK-987
+642-AE1-323,Grata Gannan,8,False,26,0.8,Czech Republic,20,OF-955
+716-OI6-500,Dwain Berzen,16,True,28,0.58,Indonesia,26,JG-818
+787-ED5-558,Alyosha Rudd,24,True,46,0.41,Indonesia,24,YT-531
+902-FU9-556,Ddene Spedroni,27,True,26,0.21,Kazakhstan,23,TJ-663
+381-UZ3-413,Malina Siveter,67,True,27,0.71,China,22,RJ-217
+478-EO8-271,Florencia Hansley,52,False,30,0.51,Indonesia,25,YZ-552
+835-SA6-519,Minor Malling,38,False,31,0.37,Thailand,24,YZ-552
+080-WF3-784,Leanora Alu,63,True,21,0.36,Pakistan,20,KG-943
+791-CC3-355,Tomkin Knatt,49,True,28,0.1,China,23,JG-818
+815-UI9-718,Cristal Rout,33,False,12,0.29,Brazil,24,NX-742
+628-TI8-442,Ody Yarnold,39,True,39,0.83,Belarus,20,WI-704
+262-XN6-196,Jase Parratt,33,False,29,0.65,China,21,YZ-552
+749-GR1-967,Theodoric Sheard,34,False,36,0.04,Ukraine,20,JG-818
+560-WX2-970,Laurie Sheaber,43,True,24,0.57,Russia,20,KG-943
+844-HR8-474,Mabelle Dubock,32,False,25,0.77,Finland,21,PN-497
+014-JL4-950,Sandy Wethey,35,False,33,0.77,Indonesia,23,TJ-663
+935-CX7-430,Estelle Priest,40,True,31,0.65,Mexico,19,ZK-987
 984-UG7-447,Ernest Cuxon,63,True,41,0.2,Slovenia,21,EZ-769
-514-QG1-158,Dionysus Forth,35,True,42,0.74,Indonesia,25,ZK-987
-604-OY4-366,Beret Dodell,48,True,25,0.85,Russia,21,PN-497
-348-XC2-517,Shellysheldon Frankel,68,True,5,0.69,China,21,EZ-769
-034-WC5-074,Thatcher Pamphilon,35,False,37,0.02,China,22,ZK-987
-191-FJ8-789,Hector Getch,10,True,38,0.34,Russia,23,FJ-273
-696-FE9-401,Anne Weeks,17,False,14,0.18,Greece,20,FO-623
-333-VJ7-526,Devondra Mahood,35,True,12,0.72,China,19,YT-531
-522-VO5-997,Goddart Ashdown,25,False,42,0.77,Brazil,22,RJ-217
-710-HW4-386,Trixi Rotge,32,True,33,0.9,Syria,20,PN-497
-012-ZU3-400,Trudy Leitche,49,True,25,0.39,Nigeria,17,OF-955
-200-GA5-049,Levin Emloch,41,True,30,0.71,Lithuania,23,RJ-217
-192-JU6-441,Lorne Gretton,0,False,18,0.49,China,22,FJ-273
-872-RX5-279,Ike Carey,42,False,27,0.35,Panama,24,YZ-552
-594-EJ5-595,Payton Lambarton,46,False,29,0.65,Uzbekistan,22,YZ-552
-258-AM1-124,Frances Ryce,61,False,36,0.6,China,22,ZK-987
-722-OC1-212,Krissie Trippett,86,True,26,0.89,Kosovo,26,PN-497
-468-YG0-237,Tish Siberry,32,False,34,0.01,Russia,22,ZK-987
-804-TQ8-265,Timofei Antyukhin,38,True,28,0.94,China,22,NX-742
-744-UC5-294,Bron Corter,24,False,34,0.96,Russia,23,KW-724
+514-QG1-158,Dionysus Forth,35,True,42,0.74,Indonesia,25,EZ-769
+604-OY4-366,Beret Dodell,48,True,25,0.85,Russia,21,NX-742
+348-XC2-517,Shellysheldon Frankel,68,True,5,0.69,China,21,KW-724
+034-WC5-074,Thatcher Pamphilon,35,False,37,0.02,China,22,PN-497
+191-FJ8-789,Hector Getch,10,True,38,0.34,Russia,23,ZK-987
+696-FE9-401,Anne Weeks,17,False,14,0.18,Greece,20,YC-315
+333-VJ7-526,Devondra Mahood,35,True,12,0.72,China,19,KW-724
+522-VO5-997,Goddart Ashdown,25,False,42,0.77,Brazil,22,TJ-663
+710-HW4-386,Trixi Rotge,32,True,33,0.9,Syria,20,KW-724
+012-ZU3-400,Trudy Leitche,49,True,25,0.39,Nigeria,17,EZ-769
+200-GA5-049,Levin Emloch,41,True,30,0.71,Lithuania,23,ZK-987
+192-JU6-441,Lorne Gretton,0,False,18,0.49,China,22,YZ-552
+872-RX5-279,Ike Carey,42,False,27,0.35,Panama,24,KW-724
+594-EJ5-595,Payton Lambarton,46,False,29,0.65,Uzbekistan,22,TJ-663
+258-AM1-124,Frances Ryce,61,False,36,0.6,China,22,PN-497
+722-OC1-212,Krissie Trippett,86,True,26,0.89,Kosovo,26,QL-031
+468-YG0-237,Tish Siberry,32,False,34,0.01,Russia,22,YZ-552
+804-TQ8-265,Timofei Antyukhin,38,True,28,0.94,China,22,WI-704
+744-UC5-294,Bron Corter,24,False,34,0.96,Russia,23,OF-955
 133-RY3-592,Babita Edlyn,41,True,17,0.74,Canada,23,FO-623
-558-JQ9-618,Dominica Ege,30,True,23,0.75,Philippines,21,KW-724
-159-YG8-249,Don Hurling,33,True,38,0.42,Croatia,22,KG-943
-953-QW3-358,Haily Burndred,10,False,43,0.54,Russia,27,QL-031
-963-AI0-699,Jodi Flukes,34,True,26,0.22,Egypt,20,PY-241
-539-HX8-812,Darbee Gisbourn,44,False,19,0.87,Peru,21,OF-955
-355-OQ8-095,Dicky Massow,31,False,11,0.99,China,23,OF-955
-069-NT1-373,Brockie Matussevich,0,True,39,0.71,Portugal,22,NX-742
-741-JR1-170,Tyrus Dearman,18,True,34,0.11,Philippines,19,OF-955
-044-WA8-698,Felicle Whoston,62,True,60,0.29,Canada,22,OF-955
-243-DF2-146,Ewart Willgrass,87,False,47,0.23,United States,20,WI-704
-082-QM7-074,Halimeda Rumming,58,True,27,0.14,China,19,OF-955
-120-TI6-067,Wilfred Matisse,24,True,45,0.94,Portugal,22,OF-955
-028-DO7-673,Phylys Cleverley,71,False,33,0.05,Poland,18,TJ-663
-059-MN3-221,Alberta Adcocks,30,True,22,0.43,China,24,RJ-217
-769-CN5-989,Corny McPolin,43,False,29,0.33,Canada,22,WI-704
-627-QQ3-829,Verla Glazier,89,False,9,0.68,Lithuania,24,ZK-987
-103-CX5-828,Bucky Tuite,51,False,33,0.93,Indonesia,19,PY-241
-812-XN4-041,Glenn Natwick,24,False,37,0.59,Thailand,22,YC-315
-551-QV3-794,Mireille Jacques,25,False,16,0.52,Sweden,18,EZ-769
-525-OA0-067,Patten Newbury,38,True,28,0.96,Indonesia,23,QL-031
-535-HE1-868,Aurore Hannen,0,True,15,0.9,United States,22,KG-943
-327-DU5-540,Cass Nelsey,32,False,29,0.54,China,21,QL-031
-153-KG8-424,Benoit Carek,54,False,43,0.93,Poland,25,WI-704
-826-GV2-942,Phil Zavattari,57,False,36,0.63,Yemen,23,YC-315
-593-YU5-326,Burk Pumphrey,47,True,22,0.95,Kuwait,21,KW-724
-832-IX7-797,Odelia Hebbes,53,True,48,0.34,Botswana,22,NX-742
+558-JQ9-618,Dominica Ege,30,True,23,0.75,Philippines,21,FO-623
+159-YG8-249,Don Hurling,33,True,38,0.42,Croatia,22,JG-818
+953-QW3-358,Haily Burndred,10,False,43,0.54,Russia,27,KG-943
+963-AI0-699,Jodi Flukes,34,True,26,0.22,Egypt,20,PN-497
+539-HX8-812,Darbee Gisbourn,44,False,19,0.87,Peru,21,KW-724
+355-OQ8-095,Dicky Massow,31,False,11,0.99,China,23,PN-497
+069-NT1-373,Brockie Matussevich,0,True,39,0.71,Portugal,22,KG-943
+741-JR1-170,Tyrus Dearman,18,True,34,0.11,Philippines,19,RJ-217
+044-WA8-698,Felicle Whoston,62,True,60,0.29,Canada,22,PN-497
+243-DF2-146,Ewart Willgrass,87,False,47,0.23,United States,20,KG-943
+082-QM7-074,Halimeda Rumming,58,True,27,0.14,China,19,NX-742
+120-TI6-067,Wilfred Matisse,24,True,45,0.94,Portugal,22,JG-818
+028-DO7-673,Phylys Cleverley,71,False,33,0.05,Poland,18,QL-031
+059-MN3-221,Alberta Adcocks,30,True,22,0.43,China,24,OF-955
+769-CN5-989,Corny McPolin,43,False,29,0.33,Canada,22,TJ-663
+627-QQ3-829,Verla Glazier,89,False,9,0.68,Lithuania,24,QL-031
+103-CX5-828,Bucky Tuite,51,False,33,0.93,Indonesia,19,WI-704
+812-XN4-041,Glenn Natwick,24,False,37,0.59,Thailand,22,PN-497
+551-QV3-794,Mireille Jacques,25,False,16,0.52,Sweden,18,QL-031
+525-OA0-067,Patten Newbury,38,True,28,0.96,Indonesia,23,YT-531
+535-HE1-868,Aurore Hannen,0,True,15,0.9,United States,22,QL-031
+327-DU5-540,Cass Nelsey,32,False,29,0.54,China,21,KW-724
+153-KG8-424,Benoit Carek,54,False,43,0.93,Poland,25,FO-623
+826-GV2-942,Phil Zavattari,57,False,36,0.63,Yemen,23,QL-031
+593-YU5-326,Burk Pumphrey,47,True,22,0.95,Kuwait,21,WI-704
+832-IX7-797,Odelia Hebbes,53,True,48,0.34,Botswana,22,KG-943
 384-UE2-094,Tracy McDonnell,36,False,39,0.9,Russia,24,RJ-217
-432-OX3-136,Eilis Longmuir,19,True,31,0.23,France,23,TJ-663
-152-EI9-519,Elvira Authers,44,True,30,0.81,Afghanistan,20,TJ-663
-436-PW9-977,Chrissie Lintall,37,False,28,0.24,Madagascar,21,FO-623
-292-UP5-090,Elana Cottu,39,False,16,0.78,Indonesia,24,NX-742
-404-DQ1-490,Siana Gilbert,32,True,34,0.54,Philippines,21,YT-531
+432-OX3-136,Eilis Longmuir,19,True,31,0.23,France,23,YT-531
+152-EI9-519,Elvira Authers,44,True,30,0.81,Afghanistan,20,YT-531
+436-PW9-977,Chrissie Lintall,37,False,28,0.24,Madagascar,21,FJ-273
+292-UP5-090,Elana Cottu,39,False,16,0.78,Indonesia,24,ZK-987
+404-DQ1-490,Siana Gilbert,32,True,34,0.54,Philippines,21,YC-315
 910-YR6-460,Niles Ickovic,20,True,31,0.12,Argentina,19,YZ-552
-637-GL2-625,Lucille Spicer,48,False,35,0.31,Gambia,21,FO-623
-426-BI1-016,Gal Joscelyn,49,False,30,0.94,United Kingdom,18,ZK-987
-825-GM8-781,Kristofer Stirrup,24,True,18,0.76,United States,22,RJ-217
-891-MJ6-927,Consolata De Gouy,51,False,15,0.25,China,21,PY-241
-204-FY0-534,Aloisia Powis,6,True,27,0.19,Poland,23,WI-704
-869-TI0-022,Sibeal Goslin,58,False,41,0.49,Croatia,20,YZ-552
-701-XY4-752,Martyn Attride,52,False,27,0.26,Portugal,20,TJ-663
-224-LY0-771,Teodoro Beatty,56,True,36,0.78,Brazil,19,ZK-987
-360-SO8-715,Emelen Mart,21,False,38,0.43,Indonesia,22,WI-704
-623-KU3-022,Mandi Paradyce,2,True,34,0.13,South Africa,23,FJ-273
-016-RG4-301,Rich Tart,22,True,17,0.88,China,20,QL-031
-824-TJ0-535,Red Durden,66,True,25,0.9,China,24,PN-497
-460-ZO5-330,Egbert Bodicum,55,False,28,0.87,United States,20,TJ-663
-228-VZ3-304,Jorgan Gellett,56,True,33,0.58,Indonesia,21,KW-724
-952-MX3-032,Lindsy Older,6,False,39,0.64,French Polynesia,22,PN-497
-914-AK0-458,Dela Maddigan,0,False,40,0.57,Portugal,22,EZ-769
-116-OX3-868,Ethel Fandrich,50,True,21,0.97,Philippines,21,FO-623
+637-GL2-625,Lucille Spicer,48,False,35,0.31,Gambia,21,KW-724
+426-BI1-016,Gal Joscelyn,49,False,30,0.94,United Kingdom,18,PN-497
+825-GM8-781,Kristofer Stirrup,24,True,18,0.76,United States,22,FO-623
+891-MJ6-927,Consolata De Gouy,51,False,15,0.25,China,21,NX-742
+204-FY0-534,Aloisia Powis,6,True,27,0.19,Poland,23,NX-742
+869-TI0-022,Sibeal Goslin,58,False,41,0.49,Croatia,20,JG-818
+701-XY4-752,Martyn Attride,52,False,27,0.26,Portugal,20,KW-724
+224-LY0-771,Teodoro Beatty,56,True,36,0.78,Brazil,19,KW-724
+360-SO8-715,Emelen Mart,21,False,38,0.43,Indonesia,22,NX-742
+623-KU3-022,Mandi Paradyce,2,True,34,0.13,South Africa,23,KW-724
+016-RG4-301,Rich Tart,22,True,17,0.88,China,20,EZ-769
+824-TJ0-535,Red Durden,66,True,25,0.9,China,24,QL-031
+460-ZO5-330,Egbert Bodicum,55,False,28,0.87,United States,20,OF-955
+228-VZ3-304,Jorgan Gellett,56,True,33,0.58,Indonesia,21,FO-623
+952-MX3-032,Lindsy Older,6,False,39,0.64,French Polynesia,22,WI-704
+914-AK0-458,Dela Maddigan,0,False,40,0.57,Portugal,22,FO-623
+116-OX3-868,Ethel Fandrich,50,True,21,0.97,Philippines,21,KG-943
 352-UD4-696,Lorrie Capineer,58,True,32,0.47,Panama,26,YT-531
-341-YK7-000,Ax Root,32,False,24,0.34,China,22,TJ-663
-600-CX7-347,Donnie Hulbert,38,True,24,0.7,China,21,KG-943
-312-AY7-621,Cori Faulkes,12,False,42,0.81,Ghana,20,FJ-273
-731-TV2-319,Bethina Weekly,39,False,24,0.16,Indonesia,21,ZK-987
-586-DE0-357,Tabbie Olech,35,False,41,0.48,Indonesia,21,WI-704
-745-MH4-613,Lyndsay McQuie,16,False,14,0.16,China,23,YZ-552
-903-DT2-718,Shanan Phalip,52,False,50,0.18,Peru,21,KW-724
-405-FW6-393,Micaela Hayworth,47,False,41,0.94,Hungary,21,EZ-769
-365-SM6-485,Auberon Diviney,36,True,13,0.61,China,20,OF-955
-903-SB6-702,Gonzalo Richin,43,False,21,0.7,China,24,OF-955
-088-BL3-266,Shaine Brimming,0,True,16,0.65,Ukraine,26,KW-724
-058-DF5-292,Martha Fley,32,False,29,0.45,Indonesia,21,FO-623
-552-RR4-694,Jesselyn Lawless,14,False,53,0.49,United States,22,NX-742
+341-YK7-000,Ax Root,32,False,24,0.34,China,22,KW-724
+600-CX7-347,Donnie Hulbert,38,True,24,0.7,China,21,OF-955
+312-AY7-621,Cori Faulkes,12,False,42,0.81,Ghana,20,FO-623
+731-TV2-319,Bethina Weekly,39,False,24,0.16,Indonesia,21,JG-818
+586-DE0-357,Tabbie Olech,35,False,41,0.48,Indonesia,21,YT-531
+745-MH4-613,Lyndsay McQuie,16,False,14,0.16,China,23,RJ-217
+903-DT2-718,Shanan Phalip,52,False,50,0.18,Peru,21,PN-497
+405-FW6-393,Micaela Hayworth,47,False,41,0.94,Hungary,21,ZK-987
+365-SM6-485,Auberon Diviney,36,True,13,0.61,China,20,YZ-552
+903-SB6-702,Gonzalo Richin,43,False,21,0.7,China,24,FJ-273
+088-BL3-266,Shaine Brimming,0,True,16,0.65,Ukraine,26,NX-742
+058-DF5-292,Martha Fley,32,False,29,0.45,Indonesia,21,TJ-663
+552-RR4-694,Jesselyn Lawless,14,False,53,0.49,United States,22,KG-943
 174-XZ6-336,Karia Cavolini,0,False,29,0.64,Norway,20,RJ-217
 607-BC8-667,Uta Tidridge,54,False,33,0.99,Poland,24,YT-531
 658-ND8-204,Ashlie Bradd,82,False,38,0.35,Poland,22,NX-742
-440-ET2-007,Cole Wisher,17,True,30,0.04,Laos,22,YZ-552
-062-CS4-959,Ertha Samuel,15,True,29,0.14,Indonesia,19,ZK-987
-539-NL2-025,Therese Fley,38,True,46,0.75,France,22,YZ-552
-733-VL6-624,Cammy Menendez,21,False,18,0.88,France,23,FO-623
-953-GL2-590,Alfie MacConnechie,53,False,26,0.72,China,21,KW-724
-642-MJ2-853,Ronny Secret,28,False,20,0.33,Czech Republic,21,JG-818
+440-ET2-007,Cole Wisher,17,True,30,0.04,Laos,22,OF-955
+062-CS4-959,Ertha Samuel,15,True,29,0.14,Indonesia,19,RJ-217
+539-NL2-025,Therese Fley,38,True,46,0.75,France,22,FJ-273
+733-VL6-624,Cammy Menendez,21,False,18,0.88,France,23,OF-955
+953-GL2-590,Alfie MacConnechie,53,False,26,0.72,China,21,JG-818
+642-MJ2-853,Ronny Secret,28,False,20,0.33,Czech Republic,21,YZ-552
 218-ZN7-080,Sande Downs,5,True,28,0.13,Canada,22,FO-623
-395-NV3-151,Jodi Wilkison,44,True,15,0.58,Japan,22,ZK-987
-350-YR1-055,Kass Crinage,103,False,32,0.74,Brazil,21,ZK-987
-701-BP4-630,Lief Messam,39,False,38,0.98,China,23,KG-943
-136-GD8-793,Gun Dowgill,29,True,38,0.77,Portugal,26,KG-943
-368-IH9-819,Cecily de Banke,57,False,31,0.04,Macedonia,22,YZ-552
-534-SJ7-875,Ly Astin,27,True,19,0.15,Belgium,21,KG-943
-411-AN0-577,Jessa Van den Dael,25,True,44,0.12,Philippines,18,FO-623
-921-EM9-358,Alice Endecott,29,False,14,0.9,Russia,20,TJ-663
-859-LT3-351,Meara Lepard,40,True,44,0.62,Mexico,26,EZ-769
-438-DC3-279,Chandler Pimme,36,True,20,0.57,Indonesia,21,WI-704
-714-WD6-521,Jonie Dudill,26,False,29,0.0,Russia,23,KG-943
-448-EB2-841,See Etheridge,37,False,19,0.47,China,21,YZ-552
-833-JE6-498,Georg Iggo,43,False,24,0.58,Iran,23,EZ-769
-827-GV7-975,Chandler Kedie,31,True,39,0.89,Botswana,21,QL-031
-681-UB5-864,Fredra Fortey,56,True,26,0.19,Colombia,24,YT-531
-800-PS1-664,Bronson Winfred,47,False,30,0.8,Brazil,21,PN-497
-006-QQ8-675,Justin Bingall,63,True,30,0.08,Norway,17,WI-704
-609-NV5-568,Alexio Guitte,42,True,37,0.54,Moldova,23,PY-241
-402-PA0-919,Blisse Mcsarry,49,False,35,0.2,Indonesia,20,QL-031
-732-SP3-196,Samara Beastall,51,False,31,0.97,Indonesia,24,RJ-217
-263-AM9-640,Cyril Pitcaithley,38,True,23,0.39,Macedonia,23,EZ-769
-814-UP6-154,Robert Emilien,66,False,13,0.32,Norway,23,TJ-663
-616-OX0-391,Sabina Meenan,37,False,28,0.78,Czech Republic,22,OF-955
-045-WC0-663,Shane Kopp,27,True,10,0.86,Czech Republic,24,FO-623
-349-ZS4-480,Ruby Melburg,27,True,32,0.56,Russia,23,PY-241
-389-TV3-712,Daven Preon,26,True,25,0.41,Russia,22,KG-943
-986-AC2-192,Claudine Chaudrelle,0,True,37,0.36,China,22,KW-724
-746-UX6-775,Lorne Whenman,13,False,30,0.83,Indonesia,22,JG-818
-522-FB0-823,Yehudit Robroe,46,True,19,0.37,Sweden,21,YT-531
-092-ZC7-872,Meta Alejo,13,False,27,0.5,Russia,23,FO-623
-532-UJ7-423,Mordy Ellick,30,True,24,0.49,Russia,22,YZ-552
-485-WG3-142,Kaye Shanklin,33,True,22,0.62,Bhutan,21,PY-241
-533-DQ0-800,Maxie Stefi,39,True,31,0.76,Indonesia,17,OF-955
-926-DF2-236,Llewellyn Ferier,76,False,37,0.66,Indonesia,21,RJ-217
-191-HV7-763,Korey Roscher,20,False,26,0.35,China,22,EZ-769
-040-SB7-452,Nollie Orcott,33,False,30,0.76,France,23,KW-724
-998-GJ1-000,Elga Bootes,25,False,32,0.66,Thailand,25,YC-315
-148-PI6-650,Lief Curro,22,True,26,0.61,Indonesia,22,FO-623
-015-BC0-803,Kimble Halston,66,False,26,0.32,Indonesia,21,YT-531
-113-GZ4-130,Susanetta Lehrmann,0,True,32,0.72,China,22,PN-497
-685-WC9-242,Herby Raitie,40,False,33,0.52,Afghanistan,20,KW-724
+395-NV3-151,Jodi Wilkison,44,True,15,0.58,Japan,22,WI-704
+350-YR1-055,Kass Crinage,103,False,32,0.74,Brazil,21,EZ-769
+701-BP4-630,Lief Messam,39,False,38,0.98,China,23,NX-742
+136-GD8-793,Gun Dowgill,29,True,38,0.77,Portugal,26,EZ-769
+368-IH9-819,Cecily de Banke,57,False,31,0.04,Macedonia,22,OF-955
+534-SJ7-875,Ly Astin,27,True,19,0.15,Belgium,21,TJ-663
+411-AN0-577,Jessa Van den Dael,25,True,44,0.12,Philippines,18,PY-241
+921-EM9-358,Alice Endecott,29,False,14,0.9,Russia,20,YC-315
+859-LT3-351,Meara Lepard,40,True,44,0.62,Mexico,26,OF-955
+438-DC3-279,Chandler Pimme,36,True,20,0.57,Indonesia,21,TJ-663
+714-WD6-521,Jonie Dudill,26,False,29,0.0,Russia,23,JG-818
+448-EB2-841,See Etheridge,37,False,19,0.47,China,21,YC-315
+833-JE6-498,Georg Iggo,43,False,24,0.58,Iran,23,QL-031
+827-GV7-975,Chandler Kedie,31,True,39,0.89,Botswana,21,TJ-663
+681-UB5-864,Fredra Fortey,56,True,26,0.19,Colombia,24,PY-241
+800-PS1-664,Bronson Winfred,47,False,30,0.8,Brazil,21,YZ-552
+006-QQ8-675,Justin Bingall,63,True,30,0.08,Norway,17,YC-315
+609-NV5-568,Alexio Guitte,42,True,37,0.54,Moldova,23,KG-943
+402-PA0-919,Blisse Mcsarry,49,False,35,0.2,Indonesia,20,JG-818
+732-SP3-196,Samara Beastall,51,False,31,0.97,Indonesia,24,TJ-663
+263-AM9-640,Cyril Pitcaithley,38,True,23,0.39,Macedonia,23,FO-623
+814-UP6-154,Robert Emilien,66,False,13,0.32,Norway,23,YZ-552
+616-OX0-391,Sabina Meenan,37,False,28,0.78,Czech Republic,22,WI-704
+045-WC0-663,Shane Kopp,27,True,10,0.86,Czech Republic,24,WI-704
+349-ZS4-480,Ruby Melburg,27,True,32,0.56,Russia,23,FO-623
+389-TV3-712,Daven Preon,26,True,25,0.41,Russia,22,FO-623
+986-AC2-192,Claudine Chaudrelle,0,True,37,0.36,China,22,YC-315
+746-UX6-775,Lorne Whenman,13,False,30,0.83,Indonesia,22,OF-955
+522-FB0-823,Yehudit Robroe,46,True,19,0.37,Sweden,21,NX-742
+092-ZC7-872,Meta Alejo,13,False,27,0.5,Russia,23,WI-704
+532-UJ7-423,Mordy Ellick,30,True,24,0.49,Russia,22,YC-315
+485-WG3-142,Kaye Shanklin,33,True,22,0.62,Bhutan,21,EZ-769
+533-DQ0-800,Maxie Stefi,39,True,31,0.76,Indonesia,17,KG-943
+926-DF2-236,Llewellyn Ferier,76,False,37,0.66,Indonesia,21,YT-531
+191-HV7-763,Korey Roscher,20,False,26,0.35,China,22,YZ-552
+040-SB7-452,Nollie Orcott,33,False,30,0.76,France,23,OF-955
+998-GJ1-000,Elga Bootes,25,False,32,0.66,Thailand,25,YZ-552
+148-PI6-650,Lief Curro,22,True,26,0.61,Indonesia,22,KG-943
+015-BC0-803,Kimble Halston,66,False,26,0.32,Indonesia,21,EZ-769
+113-GZ4-130,Susanetta Lehrmann,0,True,32,0.72,China,22,QL-031
+685-WC9-242,Herby Raitie,40,False,33,0.52,Afghanistan,20,OF-955
 822-DT3-551,Clare Pele,40,True,9,0.54,Czech Republic,27,FJ-273
-695-RR6-086,Demetre Pescott,38,False,45,0.12,China,20,OF-955
+695-RR6-086,Demetre Pescott,38,False,45,0.12,China,20,RJ-217
 215-GR9-117,Dulcinea Strowther,46,True,25,0.28,China,21,FO-623
-446-EF8-853,Adriena Vedekhov,15,True,25,0.73,China,25,KG-943
-151-XY5-350,Thedric Castagne,56,True,48,0.52,Poland,23,KG-943
-025-QD3-620,Hannah Juliff,25,True,45,0.79,Colombia,20,RJ-217
-989-RA5-873,Toiboid Hitzke,29,False,40,0.67,Canada,20,YZ-552
-720-LV5-882,Etty Mousdall,33,False,33,0.38,United States,20,NX-742
+446-EF8-853,Adriena Vedekhov,15,True,25,0.73,China,25,TJ-663
+151-XY5-350,Thedric Castagne,56,True,48,0.52,Poland,23,PN-497
+025-QD3-620,Hannah Juliff,25,True,45,0.79,Colombia,20,FO-623
+989-RA5-873,Toiboid Hitzke,29,False,40,0.67,Canada,20,QL-031
+720-LV5-882,Etty Mousdall,33,False,33,0.38,United States,20,YT-531
 150-SD6-747,Clem Scrivner,67,False,40,0.16,Portugal,20,WI-704
-455-VI3-553,Ganny Costain,74,False,23,0.92,China,21,YZ-552
-925-OL3-134,Jammal Gabbidon,67,True,15,0.45,Czech Republic,21,WI-704
-943-RR0-343,Hillier McGucken,39,False,21,0.15,Honduras,21,FO-623
+455-VI3-553,Ganny Costain,74,False,23,0.92,China,21,RJ-217
+925-OL3-134,Jammal Gabbidon,67,True,15,0.45,Czech Republic,21,RJ-217
+943-RR0-343,Hillier McGucken,39,False,21,0.15,Honduras,21,QL-031
